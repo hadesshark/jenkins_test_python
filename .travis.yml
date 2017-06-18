@@ -6,6 +6,6 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-    - py.test --junit-xml=test_result.xml coveralls --cov=foo --cov-report=xml
+    - py.test --junit-xml=test_result.xml -cov=foo --cov-report=xml
 after_success:
   - coveralls
