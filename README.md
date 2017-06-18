@@ -1,1 +1,1 @@
-[![Build Status](http://localhost:8080/job/python%20test/badge/icon)](http://localhost:8080/job/python%20test/)
+[![Build Status](http://localhost:8080/job/python test/badge/icon)](http://localhost:8080/job/python test)
