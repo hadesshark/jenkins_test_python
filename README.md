@@ -1,1 +1,1 @@
-[![Build Status](http://localhost:8080/job/python test/badge/icon)](http://localhost:8080/job/python test)
+[![Build Status](https://travis-ci.org/hadesshark/jenkins_test_python.svg?branch=master)](https://travis-ci.org/hadesshark/jenkins_test_python)
