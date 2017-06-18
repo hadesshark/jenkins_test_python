@@ -6,6 +6,6 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-  - py.test --cov-report term-missing
+  - py.test --cov=foo --cov-report=xml
 after_success:
   - coveralls
